@@ -47,9 +47,9 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
-  <project path="device/samsung/toro" name="Stevespear426/device_samsung_toro" remote="steve" revision="jb-mr1" />
+  <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device" />
-  <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/tuna" name="Stevespear426/device_samsung_tuna" remote="steve" revision="jb-mr1" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
