@@ -188,7 +188,7 @@
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/srtp" name="platform/external/srtp" />
-  <project path="external/stlport" name="platform/external/stlport" remote="steve" revision="jb-mr1" />
+  <project path="external/stlport" name="Stevespear426/external_stlport" remote="steve" revision="jb-mr1" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/stressapptest" name="platform/external/stressapptest" />
   <project path="external/svox" name="platform/external/svox" />
