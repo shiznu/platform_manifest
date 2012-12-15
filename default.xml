@@ -30,7 +30,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
-  <project path="development" name="platform/development" />
+  <project path="development" name="Stevespear426/development" remote="steve" revision="jb-mr1" />
   <project path="device/asus/grouper" name="AOKP/android_device_asus_grouper" remote="aokp" revision="jb-mr1" />
   <project path="device/asus/tilapia" name="device/asus/tilapia" groups="device" />
   <project path="device/common" name="device/common" />
@@ -47,7 +47,7 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
-  <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/toro" name="Stevespear426/device_samsung_toro" remote="steve" revision="jb-mr1" />
   <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb-mr1" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
@@ -71,7 +71,7 @@
   <project path="external/busybox" name="Stevespear426/external_busybox" remote="steve" revision="jb-mr1" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
-  <project path="external/chromium" name="platform/external/chromium" />
+  <project path="external/chromium" name="Stevespear426/external_chromium" remote="steve" revision="jb-mr1" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" />
   <project path="external/clang" name="platform/external/clang" />
@@ -79,10 +79,10 @@
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
-  <project path="external/dnsmasq" name="platform/external/dnsmasq" />
+  <project path="external/dnsmasq" name="Stevespear426/external_dnsmasq" remote="steve" revision="jb-mr1" />
   <project path="external/doclava" name="platform/external/doclava" />
   <project path="external/dropbear" name="platform/external/dropbear" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" />
+  <project path="external/e2fsprogs" name="Stevespear426/external_e2fsprogs" remote="steve" revision="jb-mr1" />
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
@@ -166,10 +166,10 @@
   <project path="external/okhttp" name="platform/external/okhttp" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external/openssh" />
-  <project path="external/openssl" name="platform/external/openssl" />
+  <project path="external/openssh" name="Stevespear426/external_openssh" remote="steve" revision="jb-mr1" />
+  <project path="external/openssl" name="Stevespear426/external_openssl" remote="steve" revision="jb-mr1" />
   <project path="external/oprofile" name="platform/external/oprofile" />
-  <project path="external/ping" name="platform/external/ping" />
+  <project path="external/ping" name="Stevespear426/external_ping" remote="steve" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
   <project path="external/proguard" name="platform/external/proguard" />
@@ -181,14 +181,14 @@
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
-  <project path="external/skia" name="platform/external/skia" />
+  <project path="external/skia" name="Stevespear426/external_skia" remote="steve" revision="jb-mr1" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/srtp" name="platform/external/srtp" />
-  <project path="external/stlport" name="platform/external/stlport" />
+  <project path="external/stlport" name="platform/external/stlport" remote="steve" revision="jb-mr1" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/stressapptest" name="platform/external/stressapptest" />
   <project path="external/svox" name="platform/external/svox" />
@@ -204,7 +204,7 @@
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
+  <project path="external/wpa_supplicant_8" name="Stevespear426/external_wpa_supplicant_8" remote="steve" revision="jb-mr1" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
@@ -215,9 +215,9 @@
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
-  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
+  <project path="frameworks/compile/mclinker" name="Stevespear426/frameworks_compile_mclinker" remote="steve" revision="jb-mr1" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
-  <project path="frameworks/ex" name="platform/frameworks/ex" />
+  <project path="frameworks/ex" name="Stevespear426/frameworks_ex" remote="steve" revision="jb-mr1" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/native" name="AOKP/frameworks_native" remote="aokp" revision="jb-mr1" />
@@ -233,7 +233,7 @@
   <project path="frameworks/rs" name="Stevespear426/frameworks_rs" remote="steve" revision="jb-mr1" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
-  <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
+  <project path="frameworks/wilhelm" name="Stevespear426/frameworks_wilhelm" remote="steve" revision="jb-mr1" />
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
@@ -254,10 +254,10 @@
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
-  <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
+  <project path="hardware/ti/omap4xxx" name="Stevespear426/hardware_ti_omap4xxx" remote="steve" revision="jb-mr1" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="Stevespear426/libcore" remote="steve" revision="jb-mr1" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
