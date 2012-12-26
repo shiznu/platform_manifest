@@ -217,7 +217,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
-  <project path="external/zlib" name="platform/external/zlib" />
+  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="AOKP/frameworks_av" remote="aokp" revision="jb-mr1" />
   <project path="frameworks/base" name="AOKP/frameworks_base" remote="aokp" revision="jb-mr1" />
@@ -361,7 +361,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="cm-10.1" />
   <project path="system/core" name="AOKP/android_system_core" remote="aokp" revision="jb-mr1" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="cm-10.1" />
   <project path="system/media" name="platform/system/media" />

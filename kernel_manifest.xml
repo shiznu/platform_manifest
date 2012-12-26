@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="kernel/samsung/aries" name="kernel_samsung_aries" remote="pub" revision="jb-mr1" />
+  <project path="kernel/samsung/aries" name="DerTeufel/samsung-kernel-aries" remote="pub" revision="cm-10.1" />
   <project path="kernel/asus/grouper" name="faux123/Nexus-grouper" remote="aokp" revision="jb_mr1_exp" />
