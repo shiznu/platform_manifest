@@ -15,3 +15,6 @@ git fetch http://gerrit.sudoservers.com/AOKP/frameworks_native refs/changes/35/4
 cd ../../system/core
 git fetch http://gerrit.sudoservers.com/AOKP/android_system_core refs/changes/91/4691/1 && git cherry-pick FETCH_HEAD
 git fetch http://review.cyanogenmod.org/CyanogenMod/android_system_core refs/changes/81/28181/1 && git cherry-pick FETCH_HEAD
+
+cd ../../vendor/aokp
+git fetch http://gerrit.sudoservers.com/AOKP/vendor_aokp refs/changes/47/4847/1 && git cherry-pick FETCH_HEAD
