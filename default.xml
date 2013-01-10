@@ -174,7 +174,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="UnicornButter/external_openssh" remote="pub" revision="jb-mr1" />
   <project path="external/openssl" name="UnicornButter/external_openssl" remote="pub" revision="jb-mr1" />
-  <project path="external/oprofile" name="platform/external/oprofile" />
+  <project path="external/oprofile" name="UnicornButter/external_oprofile" remote="pub" revision="jb-mr1" />
   <project path="external/ping" name="UnicornButter/external_ping" remote="pub" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
