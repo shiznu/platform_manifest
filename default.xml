@@ -31,7 +31,7 @@
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="UnicornButter/dalvik" remote="pub" revision="jb-mr1" />
   <project path="development" name="UnicornButter/development" remote="pub" revision="jb-mr1" />
-  <project path="device/acer/a510" name="AOKP/android_device_acer_a510" remote="aokp" revision="jb-mr1" />
+  <project path="device/acer/a510" name="AOKP/device_acer_a510" remote="aokp" revision="jb-mr1" />
   <project path="device/asus/grouper" name="AOKP/device_asus_grouper" remote="aokp" revision="jb-mr1" />
   <project path="device/asus/tilapia" name="UnicornButter/device_asus_tilapia" remote="pub" revision="jb-mr1" />
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
