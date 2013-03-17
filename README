@@ -1,4 +1,5 @@
 $ repo init -u https://github.com/UnicornButter/platform_manifest.git -b jb-mr1
 $ repo sync
+$ . ./platform_manifest/manual_add_kernel_manifest.sh
 $ cd platform_manifest
 $ ./pick.sh
