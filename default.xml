@@ -11,6 +11,9 @@
 
   <remote  name="pub"
            fetch="https://github.com/" />
+           
+  <remote  name="shiznu
+  "        fetch="https://github.com/shiznu" />  
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
@@ -390,5 +393,5 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <project path="platform_manifest" name="UnicornButter/platform_manifest" remote="pub" revision="jb-mr1" />
+  <project path="platform_manifest" name="UnicornButter/platform_manifest" remote="shiznu" revision="jb-mr1" />
 </manifest>
